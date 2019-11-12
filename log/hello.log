@@ -1,0 +1,5 @@
+2019-11-12 10:18:30,989 INFO [root] [app.py(<module>:44)] - hello python
+2019-11-12 10:58:53,224 WARNING [root] [test_IHRM_emp.py(test_add:27)] - 增加员工信息
+2019-11-12 10:58:53,248 WARNING [root] [test_IHRM_emp.py(test_update:47)] - 修改的员工信息
+2019-11-12 10:58:53,273 INFO [root] [test_IHRM_emp.py(test_get:56)] - 查看员工信息
+2019-11-12 10:58:53,298 WARNING [root] [test_IHRM_emp.py(test_delete:65)] - 删除员工的信息
